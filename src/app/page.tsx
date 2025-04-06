@@ -17,7 +17,7 @@ const Homepage = () => {
       <div className="max-w-full p-5 flex flex-row justify-between items-center">
         <div className="shadow-lg">
           <Image
-            src={"/homepage_house.jfif"}
+            src={"/homepage_house.jpg"}
             alt="house"
             height={600}
             width={600}
@@ -42,7 +42,7 @@ const Homepage = () => {
         <div className="flex flex-1 justify-evenly items-center p-2 w-full">
           <div className="flex flex-1 flex-col items-center">
             <Image
-              src={"/hotel.jfif"}
+              src={"/hotel.jpg"}
               alt="hotel"
               height={400}
               width={300}
@@ -59,7 +59,7 @@ const Homepage = () => {
           </div>
           <div className="flex flex-1 flex-col items-center">
             <Image
-              src={"/house_1.jfif"}
+              src={"/house_1.jpg"}
               alt="hotel"
               height={400}
               width={400}
@@ -79,7 +79,7 @@ const Homepage = () => {
           </div>
           <div className="flex flex-1 flex-col items-center">
             <Image
-              src={"/condo.jfif"}
+              src={"/condo.jpg"}
               alt="hotel"
               height={320}
               width={320}
@@ -105,7 +105,7 @@ const Homepage = () => {
         <div className="flex flex-1 justify-evenly items-center p-2 w-full">
           <div className="flex flex-1 flex-col items-center">
             <Image
-              src={"/beach_room_1.jfif"}
+              src={"/beach_room_1.jpg"}
               alt="hotel"
               height={200}
               width={300}
@@ -124,7 +124,7 @@ const Homepage = () => {
           </div>
           <div className="flex flex-1 flex-col items-center">
             <Image
-              src={"/waterfall_room_1.jfif"}
+              src={"/waterfall_room_1.jpg"}
               alt="hotel"
               height={300}
               width={450}
@@ -144,7 +144,7 @@ const Homepage = () => {
           </div>
           <div className="flex flex-1 flex-col items-center">
             <Image
-              src={"/mountain_room.jfif"}
+              src={"/mountain_room.jpg"}
               alt="hotel"
               height={310}
               width={310}
