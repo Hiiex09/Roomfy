@@ -27,9 +27,9 @@ const Homepage = () => {
         <div className="flex-1 text-center mx-20">
           <h1 className={`text-5xl ${roboto.className}`}>Welcome to Roomfy</h1>
           <p className={`text-lg mt-5 ${lato.className}`}>
-            Find your perfect stay whether it's a cozy cabin in the mountains, a
-            modern city loft, or a beachside retreat. Start exploring
-            unforgettable places hosted by real people, just like you.
+            Find your perfect stay whether it&rsquo;s a cozy cabin in the
+            mountains, a modern city loft, or a beachside retreat. Start
+            exploring unforgettable places hosted by real people, just like you.
           </p>
         </div>
       </div>
@@ -67,7 +67,7 @@ const Homepage = () => {
             />
             <div>
               <h1 className="text-lg text-center font-semibold mt-5">
-                House's
+                House&rsquo;s
               </h1>
               <p className="text-sm text-center w-sm">
                 This cozy modern house offers a perfect blend of comfort and
@@ -87,7 +87,7 @@ const Homepage = () => {
             />
             <div>
               <h1 className="text-lg text-center font-semibold mt-5">
-                Condo's
+                Condo&rsquo;s
               </h1>
               <p className="text-sm text-center w-sm">
                 A contemporary high-rise condo with city views, a full kitchen,
